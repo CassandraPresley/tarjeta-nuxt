@@ -64,3 +64,26 @@ h2 {
   font-size: 18px;
   color: #6a1b9a;
 }
+h3 {
+  margin-top: 10px;
+  color: #a855f7;
+}
+
+.dark h3 {
+  color: #c084fc;
+}
+
+.about {
+  font-size: 14px;
+  margin: 10px 0;
+}
+
+.projects {
+  list-style: none;
+  padding: 0;
+}
+
+.projects li {
+  margin: 5px 0;
+  font-size: 14px;
+}
