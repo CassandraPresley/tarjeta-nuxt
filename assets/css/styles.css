@@ -1,0 +1,66 @@
+styles.css
+.container {
+  background-color: #e6c7f2;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background: linear-gradient(135deg, #f7e6ff, #e6c7f2);
+  width: 420px;
+  padding: 25px;
+  border-radius: 25px;
+  text-align: center;
+  border: 3px solid #c08ae6;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
+}
+
+.cat {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 4px solid #b05cc6;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+
+h1 {
+  font-size: 22px;
+  color: #6a1b9a;
+}
+
+h2 {
+  font-size: 14px;
+  color: #7b1fa2;
+  margin-bottom: 15px;
+}
+
+.divider {
+  width: 90px;
+  height: 4px;
+  background-color: #b05cc6;
+  margin: 15px auto;
+  border-radius: 10px;
+}
+
+.skills {
+  background-color: #f3d9fa;
+  padding: 12px;
+  border-radius: 15px;
+  font-size: 13px;
+  color: #5e2b7a;
+  margin-bottom: 15px;
+}
+
+.info {
+  font-size: 13px;
+  color: #4a235a;
+}
+
+.footer {
+  margin-top: 18px;
+  font-size: 18px;
+  color: #6a1b9a;
+}
